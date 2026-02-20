@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Своячки",
+    "author": "ч",
+    "year": "1337",
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "джонтоху",
+    "author": "ойнетак",
+    "year": "2004",
+    "available": false
+  },
+  {
+    "id": 3,
+    "title": "меллстройность",
+    "author": "друн",
+    "year": "999",
+    "available": false
+  }
+]
