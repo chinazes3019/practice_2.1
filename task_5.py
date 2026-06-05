@@ -1,4 +1,4 @@
-1import json
+import json
 
 LIBRARY = "resource/library.json"
 AVAILABLE_BOOKS = "resource/available_books.txt"
